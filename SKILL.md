@@ -1,4 +1,5 @@
 ---
+name: github-kb-skill
 description: 当用户想要查找开源项目、寻找 GitHub 上的代码解决方案、搜索 Issue 报错信息，或者询问关于 ~/github-kb 目录下的仓库知识时使用。
 enable_editor: false
 enable_terminal: true
